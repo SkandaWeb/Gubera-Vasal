@@ -47171,11 +47171,11 @@ A.abf.prototype={
 $0(){var s=0,r=A.u(t.H)
 var $async$$0=A.p(function(a,b){if(a===1)return A.q(b,r)
 while(true)switch(s){case 0:s=5
-return A.H(A.iO("tel:8973589736"),$async$$0)
+return A.H(A.iO("tel:9487711124"),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.H(A.hY("tel:8973589736"),$async$$0)
+return A.H(A.hY("tel:9487711124"),$async$$0)
 case 6:s=3
 break
 case 4:throw A.c("Could not open Whatsapp")
@@ -47186,11 +47186,11 @@ A.abg.prototype={
 $0(){var s=0,r=A.u(t.H)
 var $async$$0=A.p(function(a,b){if(a===1)return A.q(b,r)
 while(true)switch(s){case 0:s=5
-return A.H(A.iO("tel:8973589736"),$async$$0)
+return A.H(A.iO("tel:9487711124"),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.H(A.hY("tel:8973589736"),$async$$0)
+return A.H(A.hY("tel:9487711124"),$async$$0)
 case 6:s=3
 break
 case 4:throw A.c("Could not open Whatsapp")
@@ -47282,7 +47282,7 @@ A.acO.prototype={
 $1(a){this.a.d[this.b]=a},
 $S:38}
 A.Rx.prototype={
-F(a){var s=this,r=null,q="8973589736",p="Pollachi\nCoimbatore",o=A.aK(a,r,t.w).w,n=B.d.M(q,0,5),m=B.d.M(q,5,10),l=t.p,k=A.a([new A.a3(r,50,r,r),A.du(A.PI(A.cO("assets/images/logo.png",r,B.a9,70,70)),r,r),new A.a3(r,5,r,r),A.du(A.af("Gubera Vasal".toUpperCase(),r,r,r,A.bU(B.i,25,B.A,r),r,r),r,r),new A.a3(r,15,r,r)],l)
+F(a){var s=this,r=null,q="9487711124",p="Pollachi\nCoimbatore",o=A.aK(a,r,t.w).w,n=B.d.M(q,0,5),m=B.d.M(q,5,10),l=t.p,k=A.a([new A.a3(r,50,r,r),A.du(A.PI(A.cO("assets/images/logo.png",r,B.a9,70,70)),r,r),new A.a3(r,5,r,r),A.du(A.af("Gubera Vasal".toUpperCase(),r,r,r,A.bU(B.i,25,B.A,r),r,r),r,r),new A.a3(r,15,r,r)],l)
 n="+91 "+(n+" "+m)
 if(o.a.a<800)B.b.K(k,A.a([A.aE(A.a([A.af(n,r,r,r,A.b2(r,r,B.i,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.a3(r,10,r,r),A.af(p,r,r,r,A.b2(r,r,B.i,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.an,r)],l),B.l,r,B.o,B.m)],l))
 else B.b.K(k,A.a([new A.b4(new A.Y(10,0,10,0),A.bw(A.a([A.af(n,r,r,r,A.b2(r,r,B.i,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.af(p,r,r,r,A.b2(r,r,B.i,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.an,r)],l),B.l,B.kP,B.m),r)],l))
@@ -48626,11 +48626,11 @@ A.ajd.prototype={
 $0(){var s=0,r=A.u(t.H)
 var $async$$0=A.p(function(a,b){if(a===1)return A.q(b,r)
 while(true)switch(s){case 0:s=5
-return A.H(A.iO("tel:8973589736"),$async$$0)
+return A.H(A.iO("tel:9487711124"),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.H(A.hY("tel:8973589736"),$async$$0)
+return A.H(A.hY("tel:9487711124"),$async$$0)
 case 6:s=3
 break
 case 4:throw A.c("Could not open Whatsapp")
@@ -48904,11 +48904,11 @@ A.aji.prototype={
 $0(){var s=0,r=A.u(t.H)
 var $async$$0=A.p(function(a,b){if(a===1)return A.q(b,r)
 while(true)switch(s){case 0:s=5
-return A.H(A.iO("tel:8973589736"),$async$$0)
+return A.H(A.iO("tel:9487711124"),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.H(A.hY("tel:8973589736"),$async$$0)
+return A.H(A.hY("tel:9487711124"),$async$$0)
 case 6:s=3
 break
 case 4:throw A.c("Could not open Whatsapp")
@@ -48969,11 +48969,11 @@ A.aje.prototype={
 $0(){var s=0,r=A.u(t.H)
 var $async$$0=A.p(function(a,b){if(a===1)return A.q(b,r)
 while(true)switch(s){case 0:s=5
-return A.H(A.iO("tel:8973589736"),$async$$0)
+return A.H(A.iO("tel:9487711124"),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.H(A.hY("tel:8973589736"),$async$$0)
+return A.H(A.hY("tel:9487711124"),$async$$0)
 case 6:s=3
 break
 case 4:throw A.c("Could not open Whatsapp")
@@ -49191,11 +49191,11 @@ A.ajg.prototype={
 $0(){var s=0,r=A.u(t.H)
 var $async$$0=A.p(function(a,b){if(a===1)return A.q(b,r)
 while(true)switch(s){case 0:s=5
-return A.H(A.iO("tel:8973589736"),$async$$0)
+return A.H(A.iO("tel:9487711124"),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.H(A.hY("tel:8973589736"),$async$$0)
+return A.H(A.hY("tel:9487711124"),$async$$0)
 case 6:s=3
 break
 case 4:throw A.c("Could not open Whatsapp")
@@ -49256,11 +49256,11 @@ A.ajj.prototype={
 $0(){var s=0,r=A.u(t.H)
 var $async$$0=A.p(function(a,b){if(a===1)return A.q(b,r)
 while(true)switch(s){case 0:s=5
-return A.H(A.iO("tel:8973589736"),$async$$0)
+return A.H(A.iO("tel:9487711124"),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.H(A.hY("tel:8973589736"),$async$$0)
+return A.H(A.hY("tel:9487711124"),$async$$0)
 case 6:s=3
 break
 case 4:throw A.c("Could not open Whatsapp")
@@ -49321,11 +49321,11 @@ A.ajk.prototype={
 $0(){var s=0,r=A.u(t.H)
 var $async$$0=A.p(function(a,b){if(a===1)return A.q(b,r)
 while(true)switch(s){case 0:s=5
-return A.H(A.iO("tel:8973589736"),$async$$0)
+return A.H(A.iO("tel:9487711124"),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.H(A.hY("tel:8973589736"),$async$$0)
+return A.H(A.hY("tel:9487711124"),$async$$0)
 case 6:s=3
 break
 case 4:throw A.c("Could not open Whatsapp")
@@ -49386,11 +49386,11 @@ A.ajf.prototype={
 $0(){var s=0,r=A.u(t.H)
 var $async$$0=A.p(function(a,b){if(a===1)return A.q(b,r)
 while(true)switch(s){case 0:s=5
-return A.H(A.iO("tel:8973589736"),$async$$0)
+return A.H(A.iO("tel:9487711124"),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.H(A.hY("tel:8973589736"),$async$$0)
+return A.H(A.hY("tel:9487711124"),$async$$0)
 case 6:s=3
 break
 case 4:throw A.c("Could not open Whatsapp")
@@ -49452,11 +49452,11 @@ A.ajh.prototype={
 $0(){var s=0,r=A.u(t.H)
 var $async$$0=A.p(function(a,b){if(a===1)return A.q(b,r)
 while(true)switch(s){case 0:s=5
-return A.H(A.iO("tel:8973589736"),$async$$0)
+return A.H(A.iO("tel:9487711124"),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.H(A.hY("tel:8973589736"),$async$$0)
+return A.H(A.hY("tel:9487711124"),$async$$0)
 case 6:s=3
 break
 case 4:throw A.c("Could not open Whatsapp")
@@ -49517,11 +49517,11 @@ A.ajl.prototype={
 $0(){var s=0,r=A.u(t.H)
 var $async$$0=A.p(function(a,b){if(a===1)return A.q(b,r)
 while(true)switch(s){case 0:s=5
-return A.H(A.iO("tel:8973589736"),$async$$0)
+return A.H(A.iO("tel:9487711124"),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.H(A.hY("tel:8973589736"),$async$$0)
+return A.H(A.hY("tel:9487711124"),$async$$0)
 case 6:s=3
 break
 case 4:throw A.c("Could not open Whatsapp")
