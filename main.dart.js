@@ -48733,18 +48733,16 @@ A.S7.prototype={
 ag(){this.fL(0)
 this.aq()},
 aad(){var s=this,r=A.bg("_targetKey")
-switch(s.a.c){case 0:r.b=s.z
-break
-case 1:r.b=s.Q
+switch(s.a.c){case 1:r.b=s.Q
 break
 case 2:r.b=s.as
 break
 case 3:r.b=s.at
 break}$.ac.k3$.push(new A.ajD(s,r))},
-F(a){var s,r=null,q=A.aG(a,r,t.w).w.a.a<800
-if(q)this.aad()
-s=A.b6s(B.kM,A.cU("assets/ic_whatsapp.png",r,r,r,r),!1,new A.ajE(this),new A.er(0,B.v))
-return A.eP(r,B.i,A.is(!0,new A.fE(new A.ajF(this,q),r),!0),s)},
+F(a){var s,r=this,q=null,p=A.aG(a,q,t.w).w
+if(r.a.c>0)r.aad()
+s=A.b6s(B.kM,A.cU("assets/ic_whatsapp.png",q,q,q,q),!1,new A.ajE(r),new A.er(0,B.v))
+return A.eP(q,B.i,A.is(!0,new A.fE(new A.ajF(r,p.a.a<800),q),!0),s)},
 fL(a){var s=0,r=A.u(t.H),q=this
 var $async$fL=A.p(function(b,c){if(b===1)return A.q(c,r)
 while(true)switch(s){case 0:new A.q3().EO(0,new A.ajH(q))
