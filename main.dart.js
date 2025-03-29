@@ -8314,6 +8314,7 @@ _.dx=m
 _.dy=n
 _.fx=o
 _.fy=p
+_.go=!0
 _.c=_.a=null},
 ajD:function ajD(a,b){this.a=a
 this.b=b},
@@ -48916,7 +48917,7 @@ break
 case 3:r.b=s.at
 break}$.ad.k3$.push(new A.ajD(s,r))},
 F(a){var s,r=this,q=null,p=A.aF(a,q,t.w).w
-if(r.a.c>0)r.aad()
+if(r.a.c>0&&r.go)r.aad()
 s=A.aTY(B.kN,A.cU("assets/ic_whatsapp.png",q,q,q,q),!1,new A.ajE(r),new A.eb(0,B.u))
 return A.eA(q,B.i,A.hM(!0,new A.fH(new A.ajF(r,p.a.a<800),q),!0),s)},
 fM(a){var s=0,r=A.t(t.H),q=this
@@ -48925,15 +48926,17 @@ while(true)switch(s){case 0:new A.lb().EK(0,new A.ajH(q))
 return A.q(null,r)}})
 return A.r($async$fM,r)}}
 A.ajD.prototype={
-$1(a){var s,r,q=this.b.aK()
-q=$.ad.ad$.x.h(0,q)
-q=q==null?null:q.gW()
-t.Qv.a(q)
-if(q!=null){q=A.bM(q.aW(0,null),B.f)
-s=this.a.y
-r=B.b.gaI(s.f).at
-r.toString
-s.jf(q.b+r,B.eK,A.c2(0,0,0,0,1))}},
+$1(a){var s,r,q,p=this.b.aK()
+p=$.ad.ad$.x.h(0,p)
+p=p==null?null:p.gW()
+t.Qv.a(p)
+if(p!=null){p=A.bM(p.aW(0,null),B.f)
+s=this.a
+r=s.y
+q=B.b.gaI(r.f).at
+q.toString
+r.jf(p.b+q,B.eK,A.c2(0,0,0,0,1))
+s.go=!1}},
 $S:5}
 A.ajE.prototype={
 $0(){var s=0,r=A.t(t.H),q=this,p
